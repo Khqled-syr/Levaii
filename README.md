@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+- I'am 18 almost 19 lol!
+- Yes, I like coding especially Java and currently working on many projects for #Leyon Network!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,13 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-#
-#
-#
-### Hello There, I'm Khaled Aka Levaii btw! 👋
-
-- I'am 18 almost 19 lol!
-- Yes, I like coding especially Java and currently working on many projects for ##Leyon Network [Discord]!
-- https://discord.gg/ujSG7xjstM
+- 
 
 
