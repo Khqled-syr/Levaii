@@ -7,13 +7,17 @@
 * 💬 Ask me about anything I know! I'll help you out, from hardware and software issues to programming problems, especially with languages I know.
 * ⚡ Fun fact: Shawrma is the best food lol! 
 
+Stack
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](java)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](intellij)  
+
+
+More
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Levaii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Levaii5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](#Levaii1234)  
 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levaii)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Levaii&show_icons=true)  
 
