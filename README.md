@@ -1,9 +1,8 @@
 ### Hi there 👋, Hi there, I'm Khaled aka Levaii 👋
 #### Java Developer
 * A Syrian guy, 18 almost 19! 🇸🇾
-* Yes I like coding especially Java and currently working on many projects for Leyon Network (Minecraft server)! 
-* Currently working as a PC Technician.
-* 🌱 I’m currently learning more about programing and Computer Science..
+* Yes I like coding especially Java and currently working on many projects for Leyon Network (Minecraft server) 
+* 🌱 I’m currently learning more about programing and Computer Science, Working as a PC Technician.
 * 💬 Ask me about anything I know! I'll help you out, from hardware and software issues to programming problems, especially with languages I know.
 * ⚡ Fun fact: Shawrma is the best food lol! 
 
