@@ -1,20 +1,19 @@
-### Hi there, I'am Khaled Aka Levaii 👋
+### Hi there 👋, Hi there, I'm Khaled aka Levaii 👋
+#### Java Developer
+* Syrian guy, 18 almost 19! 🇸🇾
+* Yes I like coding especially Java and currently working on many projects for Leyon Network (Minecraft server)! 
+* Currently working as a PC Technician.
+* 🌱 I’m currently learning more about programing and Computer Science..
+* 💬 Ask me about anything I know! I'll help you out, from hardware and software issues to programming problems, especially with languages I know.
+* ⚡ Fun fact: Shawrma is the best food lol! 
 
 
-**Levaii/Levaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Levaii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Levaii5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](#Levaii1234)  
 
-- I'am 18 almost 19 lol!
-- Yes, I like coding especially Java and currently working on many projects for #Leyon Network!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levaii)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Levaii&show_icons=true)  
 
