@@ -1,4 +1,4 @@
-### Hi there, I'm Khaled aka Levaii 👋
+### Hi there, I'm Khaled 👋
 #### Java Developer
 * Syrian, 19yo 🇸🇾
 * Yes I like coding especially Java and currently working on many projects for Leyon Network (Minecraft server) 
