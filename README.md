@@ -1,5 +1,4 @@
 ### Hi there, I'm Khaled 👋
-#### Java Developer
 * Syrian, 19yo 🇸🇾
 * Yes I like coding especially Java and currently working on many projects for Leyon Network (Minecraft server) 
 * 🌱 I’m currently learning more about programing and Computer Science, Working as a PC Technician.
