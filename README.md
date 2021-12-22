@@ -1,5 +1,5 @@
 ### Hi there, I'm Khaled 👋
-* Syrian, 19yo 🇸🇾
+* 19yo
 * Yes I like coding and currently trying to improve my skills.
 * 🌱 I’m currently learning more about front-end developement, Working as a PC Technician.
 * 💬 Ask me about anything I know! I'll help you out, from hardware and software issues to programming problems, especially with languages I know.
