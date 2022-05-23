@@ -1,5 +1,5 @@
 ### Hi there, I'm Khaled 👋
-* 🌱 I’m currently learning C#.
+* 🌱 Currently learning C#.
 * 💬 Ask me about anything I know! I'll help you out, from hardware and software issues to programming problems, especially with languages I know.
 * ⚡ Fun fact: Shawrma is the best food lol! 
 
